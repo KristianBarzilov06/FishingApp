@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingApi", "FishingApi\FishingApi.csproj", "{6797C5D5-55B9-4160-9C70-B630A1E57A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6797C5D5-55B9-4160-9C70-B630A1E57A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6797C5D5-55B9-4160-9C70-B630A1E57A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6797C5D5-55B9-4160-9C70-B630A1E57A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6797C5D5-55B9-4160-9C70-B630A1E57A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BF8EA9-E1A0-49C6-90E2-BE40F8A46715}
+	EndGlobalSection
+EndGlobal
